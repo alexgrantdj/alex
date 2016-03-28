@@ -1,0 +1,8 @@
+{
+  "name": "alexlabs",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "Materialize": "materialize#^0.97.5"
+  }
+}
